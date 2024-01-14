@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Automating apps with Jenkins and Tomcat</h1>
+    <h1>Apache Tomcat, Maven and Jenkins pipeline automation</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
