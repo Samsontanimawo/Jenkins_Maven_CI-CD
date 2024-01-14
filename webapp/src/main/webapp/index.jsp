@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Apache Tomcat, Maven and Jenkins pipeline automation 2024</h1>
+    <h1>Apache Tomcat, Maven and Jenkins pipeline automation.</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
